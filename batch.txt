@@ -1,0 +1,2 @@
+sample1 data.R1.fastq.gz data.R2.fastq.gz
+sample2 data2.R1.fastq.gz data2.R2.fastq.gz
